@@ -1,0 +1,2 @@
+*.pdf filter=lfs diff=lfs merge=lfs -text
+A2026/CALSN2/CALCUL[[:space:]]DIFFERENTIEL[[:space:]](James[[:space:]]Stewart)[[:space:]](z-library.sk,[[:space:]]1lib.sk,[[:space:]]z-lib.sk).pdf filter=lfs diff=lfs merge=lfs -text
